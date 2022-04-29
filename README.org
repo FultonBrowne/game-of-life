@@ -1,0 +1,3 @@
+#+TITLE: Readme
+* Playing with the Game of life
+gol.lisp is the Game of life in scheme. source: https://rosettacode.org/wiki/Conway%27s_Game_of_Life#Scheme
